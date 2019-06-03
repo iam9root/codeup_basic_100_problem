@@ -10,6 +10,6 @@
 
 # (단, 글자색은 관계없다.)
 
-'''python
+```python
 print('Hello')
-'''
+```
